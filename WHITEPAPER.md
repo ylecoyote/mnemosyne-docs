@@ -80,7 +80,8 @@ This public whitepaper provides the strategic vision.
 
 🔒 For the full implementation roadmap, monetization model, and GTM strategy:
 
-📩 **Contact**: `awiley@outlook.com` 
+📩 **Contact**: `awiley@outlook.com`
+
 **Author**: Aaron Wiley
 
 A full investor thesis is available upon request.
