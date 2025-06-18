@@ -30,8 +30,8 @@ Today’s AI tools respond to input—they don’t remember, anticipate, or coll
 
 **Mnemosyne Moat**: Persistent cognitive memory creates user-AI bonds no other platform can replicate.
 
-## 📈 Business Model
-- **SaaS**: $100–300/user/month
+## 📈 Business Model (Illustrative Only)
+- **SaaS**: Estimated $100–300/user/month
 - **Enterprise**: $100K–1M rollouts
 - **API**: $0.50–2/call for enriched UX modules
 
