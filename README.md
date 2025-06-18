@@ -22,13 +22,14 @@ It brings the power of neural memory, surprise-driven learning, and predictive c
 
 | File | Description |
 |------|-------------|
-| `docs/WHITEPAPER.md` | Public strategic overview of consciousness partnership |
-| `docs/WHITEPAPER_ONEPAGER.md` | One-page summary for hiring managers and execs |
-| `docs/VISION.md` | The five interface paradigm shifts |
-| `docs/MNEMOSYNE_ARCHITECTURE.md` | Memory system design preview |
-| `docs/PROMETHEUS_UI.md` | Prometheus UI design philosophy |
-| `mnemosyne/memory_diagram.mmd` | Mermaid diagram of cognitive architecture |
+| [`docs/WHITEPAPER.md`](./docs/WHITEPAPER.md) | Public strategic overview of consciousness partnership |
+| [`docs/WHITEPAPER_ONEPAGER.md`](./docs/WHITEPAPER_ONEPAGER.md)  | One-page summary for hiring managers and execs |
+| [`docs/VISION.md`](./docs/VISION.md) | The five interface paradigm shifts |
+| [`docs/MNEMOSYNE_ARCHITECTURE.md`](./docs/MNEMOSYNE_ARCHITECTURE.md)  | Memory system design preview |
+| [`docs/PROMETHEUS_UI.md`](./docs/PROMETHEUS_UI.md) | Prometheus UI design philosophy |
 | `docs/INVESTOR_WHITEPAPER.md` | 🔒 Full thesis — available on request |
+
+
 
 ---
 
