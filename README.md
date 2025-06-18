@@ -1,71 +1,60 @@
-# Mnemosyne – Memory-First Architecture for Human-AI Partnership
+# 🔥 PROMETHEUS — The Interface Powered by Memory
 
-This repo shares the strategic design, interface theory, and neural memory architecture behind a new paradigm of human-computer interaction: **Consciousness Partnership**.
+Prometheus is a vision for the next era of human-computer interaction — a symbiotic interface built to remember, predict, and collaborate with you.
 
-Developed independently by Aaron Wiley, Mnemosyne explores:
-
-- Interfaces that *remember* how you think
-- AI that *predicts* what you’ll need before you ask
-- Systems that *collaborate* across time and context
-
-🧠 This work is currently under private development. This repo exists to share the vision, gather momentum, and connect with aligned builders, researchers, and hiring managers.
+Powered by the neural memory substrate **Mnemosyne**, Prometheus enables systems that evolve with users over time, forming cognitive partnerships.
 
 ---
 
-## 📘 Contents
+## 🧠 What Makes Prometheus Different
 
-- [`WHITEPAPER.md`](./WHITEPAPER.md) — Strategic manifesto and implementation roadmap
-- [`VISION.md`](./VISION.md) — The five paradigm shifts redefining interface design
-- [`ARCHITECTURE.md`](./ARCHITECTURE.md) — Memory-first system design overview
-- [`WHITEPAPER_ONEPAGER.md`](./WHITEPAPER_ONEPAGER.md) — Executive summary for investors and partners
+Most AI tools wait for input.  
+**Prometheus learns how you think.**
 
----
+It brings the power of neural memory, surprise-driven learning, and predictive context directly into the interface layer — enabling collaboration that feels natural, anticipatory, and continuous.
 
-## 💡 What Is Consciousness Partnership?
-
-Traditional AI responds to inputs.  
-**Mnemosyne enables systems that think with you.**
-
-Interfaces built with Mnemosyne:
-- Recall your context from weeks ago
-- Predict what you’ll need before you ask
-- Adapt to how you think and work
+> This is not assistance.  
+> This is symbiosis.
 
 ---
 
-## 🧠 Architecture Snapshot
+## 📘 Repo Overview
 
-- Fast-weight memory updated at inference time
-- Surprise-driven learning (based on prediction error)
-- Session continuity across personas, tasks, and time
-- Modular components: context manager, readout engine, prediction layer
-
-See [`ARCHITECTURE.md`](./architecture.md) for the full diagram and breakdown.
+| File | Description |
+|------|-------------|
+| `docs/WHITEPAPER.md` | Public strategic overview of consciousness partnership |
+| `docs/WHITEPAPER_ONEPAGER.md` | One-page summary for hiring managers and execs |
+| `docs/VISION.md` | The five interface paradigm shifts |
+| `docs/MNEMOSYNE_ARCHITECTURE.md` | Memory system design preview |
+| `docs/PROMETHEUS_UI.md` | Prometheus UI design philosophy |
+| `mnemosyne/memory_diagram.mmd` | Mermaid diagram of cognitive architecture |
+| `docs/INVESTOR_WHITEPAPER.md` | 🔒 Full thesis — available on request |
 
 ---
 
-## 🚧 Status
+## 🔧 Project Status
 
-🛠️ *Under Development* — Follow the repo and watch for updates.
+- Mnemosyne (memory system) is under private development
+- Prometheus (UI layer) is in prototyping
+- First milestone: *Memory-powered interaction with predictive context continuity*
 
-We're currently focused on building the first public interface that demonstrates:
-- Long-term memory in action
-- Anticipatory user support
-- Seamless cognitive collaboration
+---
+
+## 🧩 Use Case Snapshot
+
+> Jasmine opens her workspace. Prometheus surfaces Q3 churn data, project notes from last week, and the forecast she always runs.  
+> She didn’t ask. It just knew.
 
 ---
 
 ## 📬 Contact
 
-For collaboration, early access, or partnerships:
-
 **Aaron Wiley**  
 📧 `awiley@outlook.com`
 
+For collaboration, hiring, or investor thesis access — reach out.
+
 ---
 
-> *Memory is not a feature. It’s the foundation of intelligence.*  
-> — Mnemosyne Team
-
-
-MIT License | (c) 2025 Aaron Wiley
+> *Prometheus is the fire of cognitive AI — Mnemosyne is the memory that sustains it.*  
+> — 2025
