@@ -1,0 +1,25 @@
+graph TD
+  U[User] --> S[Sessions]
+  S --> SM[Session State Manager]
+  S --> EM[Embedding & Chunking]
+
+  subgraph Memory Module
+    LM[Long-Term Memory]
+    CG[Context Graph]
+    TP[Temporal Patterns]
+    DS[Data Store]
+    LM --> CG --> TP --> DS
+  end
+
+  EM --> LM
+  CG --> IP[Intent Parser]
+  TP --> PE[Prediction Engine]
+  PE --> BA[Behavioral Analysis]
+
+  subgraph Interface
+    UI[3D Workspace]
+    AP[Assistant Persona]
+  end
+
+  IP --> UI
+  BA --> UI
