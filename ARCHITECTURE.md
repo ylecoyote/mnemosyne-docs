@@ -62,31 +62,37 @@ Memory is contextualized per user, project, or agent persona, allowing switching
 ## 🧩 Mnemosyne System Diagram (Mermaid.js)
 
 ```mermaid
-graph TD
-  U[User] --> S[Sessions]
-  S --> SM[Session State Manager]
-  S --> EM[Embedding & Chunking]
+flowchart TD
+  %% Top-level user flow
+  U([User]) --> S([Sessions])
+  S --> SM([Session State Manager])
+  S --> EM([Embedding & Chunking])
 
-  subgraph Memory Module
-    LM[Long-Term Memory]
-    CG[Context Graph]
-    TP[Temporal Patterns]
-    DS[Data Store]
-    LM --> CG --> TP --> DS
+  %% Memory Module block
+  subgraph MM[Memory Module]
+    LM([Long-Term Memory])
+    CG([Context Graph])
+    TP([Temporal Patterns])
+    DS([Data Store])
+    LM -->|retrieves| CG
+    CG --> TP
+    TP --> DS
   end
 
   EM --> LM
-  CG --> IP[Intent Parser]
-  TP --> PE[Prediction Engine]
-  PE --> BA[Behavioral Analysis]
+  CG -->|feeds| IP([Intent Parser])
+  TP -->|learns from| PE([Prediction Engine])
+  PE -->|trains| BA([Behavioral Analysis])
 
-  subgraph Interface
-    UI[3D Workspace]
-    AP[Assistant Persona]
+  %% Interface block
+  subgraph IF[Interface]
+    UI([3D Workspace])
+    AP([Assistant Persona])
   end
 
   IP --> UI
   BA --> UI
+
 ```
 
 ---
