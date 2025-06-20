@@ -38,12 +38,12 @@ Symbiogenesis is a new paradigm in human-AI interaction — a system where inter
 
 ---
 
-## 📬 Contact
+📩 **Contact**: `info@symbiogenesis.io`
 
-**Aaron Wiley**  
-📧 info@symbiogenesis.io
+> A full investor brief is available upon request.
 
-For alpha access, hiring, or investor materials — reach out.
+---
+**Author**: Aaron Wiley  
 
 ---
 
