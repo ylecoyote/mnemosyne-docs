@@ -19,8 +19,6 @@ Symbiogenesis is a new paradigm in human-AI interaction — a system where inter
 | [`docs/public/what-is-symbiogenesis.md`](./docs/public/what-is-symbiogenesis.md) | Friendly intro for press & non-technical readers |
 | [`docs/public/index.md`](./docs/public/index.md) | Catch-all for onboarding, FAQs, use cases, and contributor-friendly docs |
 
-🔍 Looking for onboarding, FAQs, or examples? See docs/public/
-
 ---
 
 ## 🚀 Project Status
