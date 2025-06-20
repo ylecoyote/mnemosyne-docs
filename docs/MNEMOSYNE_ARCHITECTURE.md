@@ -1,9 +1,11 @@
-# ARCHITECTURE.md
+# Mnemosyne: The Memory Architecture Powering Symbiogenesis
 
-## Mnemosyne Architecture Preview  
-*Conceptual Overview — Full Implementation in Development*
+## Architecture Overview  
+*The Neural Memory Foundation of Consciousness Partnership*
 
-> ⚠️ Mnemosyne is currently in private development. This document shares the high-level architecture and design intent of the memory system enabling consciousness partnership interfaces. Specific implementation details and code will be released following demonstration.
+> ⚠️ Mnemosyne is currently in private development. This document shares the high-level architecture and design intent of the memory system that powers the entire Symbiogenesis platform.
+>
+> **Role in Symbiogenesis**: Mnemosyne is the memory architecture that enables all intelligent behavior in [Symbiogenesis](../SYMBIOGENESIS.md). Working beneath the Prometheus UI layer, it provides the persistent memory, adaptive learning, and predictive capabilities that make true consciousness partnership possible.
 
 ---
 
@@ -97,17 +99,38 @@ flowchart TD
 
 ---
 
-## 🔒 Implementation Status
+## 🧭 Current Status
 
-Mnemosyne is currently under development in a private, modular codebase. The team is focused on delivering a functional prototype that:
-- Demonstrates working memory across interactions
-- Surfaces context before it's requested
-- Adapts to a user's evolving workflow and goals
+Mnemosyne is currently under active development in a private, modular codebase.
+The team is focused on delivering a prototype that:
 
-Public release will follow successful demonstration and user validation.
+* Demonstrates working memory across interactions
+* Surfaces context before it's requested
+* Adapts to a user's evolving workflow and goals
 
-**Contact**: [awiley@outlook.com]
+🧩 **Milestone**: Deploy fast-weight memory loop with live context recall across 3-session threads
 
 ---
 
-*Mnemosyne is not just memory. It’s the cognitive core for the next generation of AI interfaces.*
+Public release will follow successful demonstration and user validation.
+
+*Mnemosyne is not just memory. It's the cognitive core that powers Symbiogenesis, enabling true consciousness partnership between humans and AI.*
+
+---
+
+## For Investors & Partners
+
+This document provides a strategic vision.  
+For the full implementation roadmap, GTM plan, and monetization thesis:
+
+📩 **Contact**: `info@symbiogenesis.io`
+
+> A full investor brief is available upon request.
+
+---
+**Author**: Aaron Wiley  
+
+---
+
+*Symbiogenesis is not just a tool.  
+It is the interface that learns how your mind works — and evolves with your consciousness.*
