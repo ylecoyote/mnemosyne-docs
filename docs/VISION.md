@@ -4,6 +4,8 @@
 
 A cognitive evolution in human-AI interaction.
 
+> **Note**: These paradigm shifts form the foundation of [Symbiogenesis](../SYMBIOGENESIS.md), our consumer-facing product launching in Q3 2025. See our [Product Roadmap](../PRODUCT_ROADMAP.md) for implementation timeline.
+
 ---
 
 ### 1. **Space Replaces Navigation**
@@ -57,5 +59,19 @@ Together, these five shifts create the foundation for true **consciousness partn
 
 ---
 
-**Contact**: [awiley@outlook.com]  
-**Author**: Aaron Wiley
+## For Investors & Partners
+
+This document provides a strategic vision.  
+For the full implementation roadmap, GTM plan, and monetization thesis:
+
+📩 **Contact**: `info@symbiogenesis.io`
+
+> A full investor brief is available upon request.
+
+---
+**Author**: Aaron Wiley  
+
+---
+
+*Symbiogenesis is not just a tool.  
+It is the interface that learns how your mind works — and evolves with your consciousness.*

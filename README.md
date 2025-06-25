@@ -1,61 +1,51 @@
-# 🔥 PROMETHEUS — The Interface Powered by Memory
+# 🧬 Symbiogenesis — The Genesis of Consciousness Partnership
 
-Prometheus is a vision for the next era of human-computer interaction — a symbiotic interface built to remember, predict, and collaborate with you.
+Symbiogenesis is a new paradigm in human-AI interaction — a system where interfaces **remember**, **anticipate**, and **evolve** alongside their users.
 
-Powered by the neural memory substrate **Mnemosyne**, Prometheus enables systems that evolve with users over time, forming cognitive partnerships.
-
----
-
-## 🧠 What Makes Prometheus Different
-
-Most AI tools wait for input.  
-**Prometheus learns how you think.**
-
-It brings the power of neural memory, surprise-driven learning, and predictive context directly into the interface layer — enabling collaboration that feels natural, anticipatory, and continuous.
-
-> This is not assistance.  
-> This is symbiosis.
+> *“You're not using computers. You're fighting them.”*  
+> Symbiogenesis is the first system that stops forcing humans to adapt to machines — and starts adapting the machine to your cognition.
 
 ---
 
-## 📘 Repo Overview
+## 📘 Documentation Index
 
-| File | Description |
-|------|-------------|
-| [`docs/WHITEPAPER.md`](./docs/WHITEPAPER.md) | Public strategic overview of consciousness partnership |
-| [`docs/WHITEPAPER_ONEPAGER.md`](./docs/WHITEPAPER_ONEPAGER.md)  | One-page summary for hiring managers and execs |
-| [`docs/VISION.md`](./docs/VISION.md) | The five interface paradigm shifts |
-| [`docs/MNEMOSYNE_ARCHITECTURE.md`](./docs/MNEMOSYNE_ARCHITECTURE.md)  | Memory system design preview |
-| [`docs/PROMETHEUS_UI.md`](./docs/PROMETHEUS_UI.md) | Prometheus UI design philosophy |
-| `docs/INVESTOR_WHITEPAPER.md` | 🔒 Full thesis — available on request |
-
-
-
----
-
-## 🔧 Project Status
-
-- Mnemosyne (memory system) is under private development
-- Prometheus (UI layer) is in prototyping
-- First milestone: *Memory-powered interaction with predictive context continuity*
+| Section | Description |
+|---------|-------------|
+| [`docs/SYMBIOGENESIS.md`](./docs/SYMBIOGENESIS.md) | Product overview + architectural stack |
+| [`docs/WHITEPAPER.md`](./docs/WHITEPAPER.md) | Strategic public whitepaper *(for one-page investment brief, contact us)* |
+| [`docs/VISION.md`](./docs/VISION.md) | The five paradigm shifts |
+| [`docs/MNEMOSYNE_ARCHITECTURE.md`](./docs/MNEMOSYNE_ARCHITECTURE.md) | Neural memory architecture |
+| [`docs/PROMETHEUS.md`](./docs/PROMETHEUS.md) | UI experience and predictive flow |
+| [`docs/public/what-is-symbiogenesis.md`](./docs/public/what-is-symbiogenesis.md) | Friendly intro for press & non-technical readers |
+| [`docs/public/index.md`](./docs/public/index.md) | Catch-all for onboarding, FAQs, use cases, and contributor-friendly docs |
 
 ---
 
-## 🧩 Use Case Snapshot
+## 🚀 Project Status
 
-> Jasmine opens her workspace. Prometheus surfaces Q3 churn data, project notes from last week, and the forecast she always runs.  
+- Mnemosyne (memory system) — in modular private development
+- Prometheus (interface layer) — UI prototyping underway
+- Symbiogenesis Alpha — 🗓 launching **Q3 2025**
+
+📍 [Join the Waitlist](https://symbiogenesis.io)
+
+---
+
+## 🧩 Example Use Case
+
+> Jasmine opens her workspace. Prometheus surfaces her Q3 churn report, flagged anomalies from last week, and her pre-meeting prep.  
 > She didn’t ask. It just knew.
 
 ---
 
-## 📬 Contact
+📩 **Contact**: `info@symbiogenesis.io`
 
-**Aaron Wiley**  
-📧 `awiley@outlook.com`
+> A full investor brief is available upon request.
 
-For collaboration, hiring, or investor thesis access — reach out.
+---
+**Author**: Aaron Wiley  
 
 ---
 
-> *Prometheus is the fire of cognitive AI — Mnemosyne is the memory that sustains it.*  
-> — 2025
+> *The machine doesn’t wait for your command. It thinks with you.*  
+> — Symbiogenesis Team, 2025

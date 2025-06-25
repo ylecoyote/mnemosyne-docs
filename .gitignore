@@ -464,7 +464,6 @@ crash.*.log
 # and are not sensitive, so we can include them.
 !*/environments/*.tfvars
 
-
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
 override.tf
@@ -491,3 +490,6 @@ avm.tflint_example.merged.hcl
 avm.tflint_module.merged.hcl
 *tfplan*
 *.md.tmp
+# macOS system files
+.DS_Store
+docs/.DS_Store
